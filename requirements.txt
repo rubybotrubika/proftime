@@ -1,0 +1,5 @@
+pycryptodome
+requests
+pillow
+tqdm
+pytz
